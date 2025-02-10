@@ -1,2 +1,2 @@
 # testrepo
-Please note! This is my test repo. 
+It's a markdown file in this repository
